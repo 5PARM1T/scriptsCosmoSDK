@@ -3,7 +3,7 @@
 1. Download the script from my repository:
 
 ```bash
-wget https://github.com/5PARM1T/scriptsCosmoSDK/blob/main/restakingRizon.sh
+wget https://raw.githubusercontent.com/5PARM1T/scriptsCosmoSDK/main/restakingRizon.sh
 ```
 
 2. Give the permissions to this file:
@@ -41,7 +41,7 @@ bash restakingRizon.sh
 # ***RUS***  
 Скачиваем скрипт 
 ```bash
- # wget https://github.com/5PARM1T/scriptsCosmoSDK/blob/main/restakingRizon.sh 
+ # wget https://raw.githubusercontent.com/5PARM1T/scriptsCosmoSDK/main/restakingRizon.sh
 ```
 Даем нужные разрешения
 ```bash
